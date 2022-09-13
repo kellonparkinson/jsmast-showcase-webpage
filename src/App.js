@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title='Your own marketplace for NFTs. Start Selling & Growing.'
+        title='Your own marketplace for NFTs. Start selling & growing.'
         description='Buy, store, and collect NFTs. Exchange and earn crypto. Join 25+ million people using ProNef Marketplace.'
         showBtn
         mockupImg={assets.homeHero}
