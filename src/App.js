@@ -11,6 +11,12 @@ const App = () => {
         mockupImg={assets.homeHero}
         banner='banner'
       />
+      <SectionWrapper 
+        title='Experience NFTs the right way.'
+        description='A buttery user experience. ProNef gives you the smooth, constant colors of a fluent UI design.'
+        mockupImg={assets.homeCards}
+        reverse
+      />
     </>
   );
 }
