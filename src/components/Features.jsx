@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+
+import assets from '../assets';
+import styles from '../styles/Global';
 
 const Features = () => {
   return (
-    <div>Features</div>
+    <div className={`${styles.section} ${styles.bgPrimary} banner03`}>
+
+    </div>
   )
 }
 
